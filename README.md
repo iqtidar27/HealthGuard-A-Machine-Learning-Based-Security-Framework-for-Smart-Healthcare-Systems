@@ -43,3 +43,5 @@ Department of Electrical and Computer Engineering Florida International Universi
 | 9      | Drunk                    |
 | 10     | Heart-Attack             |
 | 11     | Stroke                   |
+
+# For further explanation of the dataset, please read the paper.
